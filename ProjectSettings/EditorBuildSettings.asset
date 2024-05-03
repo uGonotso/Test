@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: 0eb8b3c40eb6133438d49e761cc6467f
+  - enabled: 1
+    path: Assets/Scenes/P2CardSelect.unity
+    guid: 3b247de6326e66e42a2f666f30c0c359
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 3dbb604d27aaad4498468c49f49209ae
+  m_configObjects: {}
